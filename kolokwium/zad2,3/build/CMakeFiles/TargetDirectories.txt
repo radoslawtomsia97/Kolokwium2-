@@ -1,0 +1,3 @@
+/home/linux/Pulpit/kolokwium/zad2/build/CMakeFiles/rebuild_cache.dir
+/home/linux/Pulpit/kolokwium/zad2/build/CMakeFiles/app.dir
+/home/linux/Pulpit/kolokwium/zad2/build/CMakeFiles/edit_cache.dir
